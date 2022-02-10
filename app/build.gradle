@@ -32,7 +32,7 @@ android {
         }
         production {
             dimension "mode"
-            buildConfigField("String", "SERVICE_URL", "\"https://wemo-pod.appspot.com\"")
+            buildConfigField("String", "SERVICE_URL", "\"https://wemo-dev.appspot.com\"")
         }
     }
     compileOptions {
