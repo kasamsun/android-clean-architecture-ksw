@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/workspace/androidstudio/android-clean-architecture-kswafx/app/src/main/res/drawable/circle_black.xml" value="0.1585" />
+        <entry key="..\:/workspace/androidstudio/android-clean-architecture-kswafx/app/src/main/res/drawable/circle_blue.xml" value="0.1585" />
+        <entry key="..\:/workspace/androidstudio/android-clean-architecture-kswafx/app/src/main/res/layout/login_activity.xml" value="0.2513020833333333" />
+        <entry key="..\:/workspace/androidstudio/android-clean-architecture-kswafx/app/src/main/res/layout/main_activity.xml" value="0.2" />
+        <entry key="..\:/workspace/androidstudio/android-clean-architecture-kswafx/app/src/main/res/layout/main_fragment.xml" value="0.264" />
+        <entry key="..\:/workspace/androidstudio/android-clean-architecture-kswafx/app/src/main/res/layout/splash_activity.xml" value="0.11354166666666667" />
+        <entry key="..\:/workspace/wemo/wemo-dom-ydhnwb/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2703125" />
+        <entry key="..\:/workspace/wemo/wemo-dom-ydhnwb/app/src/main/res/drawable/circle_black.xml" value="0.2703125" />
+        <entry key="..\:/workspace/wemo/wemo-dom-ydhnwb/app/src/main/res/drawable/ic_arrow_back_white_24dp.xml" value="0.2703125" />
+        <entry key="..\:/workspace/wemo/wemo-dom-ydhnwb/app/src/main/res/drawable/ic_backspace_24.xml" value="0.2703125" />
+        <entry key="..\:/workspace/wemo/wemo-dom-ydhnwb/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2703125" />
+        <entry key="..\:/workspace/wemo/wemo-dom-ydhnwb/app/src/main/res/drawable/ic_radio_button_checked_24.xml" value="0.2703125" />
+        <entry key="..\:/workspace/wemo/wemo-dom-ydhnwb/app/src/main/res/drawable/ic_radio_button_unchecked_24.xml" value="0.2703125" />
+        <entry key="..\:/workspace/wemo/wemo-dom-ydhnwb/app/src/main/res/layout/activity_login.xml" value="0.25416666666666665" />
+        <entry key="..\:/workspace/wemo/wemo-dom-ydhnwb/app/src/main/res/layout/login_activity.xml" value="0.3255208333333333" />
+        <entry key="..\:/workspace/wemo/wemo-dom-ydhnwb/app/src/main/res/layout/main_activity.xml" value="0.25416666666666665" />
+        <entry key="..\:/workspace/wemo/wemo-dom-ydhnwb/app/src/main/res/layout/splash_activity.xml" value="0.25416666666666665" />
+        <entry key="..\:/workspace/wemo/wemo-dom/app/src/main/res/drawable-v24/ic_check_box_outline_blank_24.xml" value="0.14635416666666667" />
+        <entry key="..\:/workspace/wemo/wemo-dom/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.14635416666666667" />
+        <entry key="..\:/workspace/wemo/wemo-dom/app/src/main/res/drawable-v24/ic_toast_error.xml" value="0.2703125" />
+        <entry key="..\:/workspace/wemo/wemo-dom/app/src/main/res/drawable-v24/ripple_click.xml" value="0.14635416666666667" />
+        <entry key="..\:/workspace/wemo/wemo-dom/app/src/main/res/drawable-v24/toast_error_background.xml" value="0.2703125" />
+        <entry key="..\:/workspace/wemo/wemo-dom/app/src/main/res/drawable/dialog_background.xml" value="0.24444444444444444" />
+        <entry key="..\:/workspace/wemo/wemo-dom/app/src/main/res/drawable/ic_arrow_back_white_24dp.xml" value="0.14635416666666667" />
+        <entry key="..\:/workspace/wemo/wemo-dom/app/src/main/res/drawable/ic_launcher_background.xml" value="0.14635416666666667" />
+        <entry key="..\:/workspace/wemo/wemo-dom/app/src/main/res/layout/dialog_mysweetalert.xml" value="0.25416666666666665" />
+        <entry key="..\:/workspace/wemo/wemo-dom/app/src/main/res/layout/dialog_mysweetalert_listitem.xml" value="0.25416666666666665" />
+        <entry key="..\:/workspace/wemo/wemo-dom/app/src/main/res/layout/login_activity.xml" value="0.13020833333333334" />
+        <entry key="..\:/workspace/wemo/wemo-dom/app/src/main/res/layout/main_activity.xml" value="0.13020833333333334" />
+        <entry key="..\:/workspace/wemo/wemo-dom/app/src/main/res/layout/main_fragment.xml" value="0.13020833333333334" />
+        <entry key="..\:/workspace/wemo/wemo-dom/app/src/main/res/layout/my_toast.xml" value="0.25416666666666665" />
+        <entry key="..\:/workspace/wemo/wemo-dom/app/src/main/res/layout/splash_activity.xml" value="0.4" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
