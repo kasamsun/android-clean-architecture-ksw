@@ -3,6 +3,7 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/workspace/androidstudio/android-clean-architecture-ksw/app/src/main/res/layout/main_activity.xml" value="0.25416666666666665" />
         <entry key="..\:/workspace/androidstudio/android-clean-architecture-kswafx/app/src/main/res/drawable/circle_black.xml" value="0.1585" />
         <entry key="..\:/workspace/androidstudio/android-clean-architecture-kswafx/app/src/main/res/drawable/circle_blue.xml" value="0.1585" />
         <entry key="..\:/workspace/androidstudio/android-clean-architecture-kswafx/app/src/main/res/layout/login_activity.xml" value="0.2513020833333333" />
